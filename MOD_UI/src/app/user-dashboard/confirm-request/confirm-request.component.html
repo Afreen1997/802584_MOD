@@ -1,0 +1,65 @@
+<div >
+        <div class="row py-5">
+            <div class="col-sm-4"></div>
+            <div class="col-sm-4">
+            <div class="card card-signin">
+                <div class="card-body">
+                    <h3 class="card-title text-center">Send Request</h3>
+                    <form class="form-signin" (submit)="onSave()">
+                        <div class="form-label-group py-1">
+                            <label for="timeSlot">Time Slot</label>
+                            <select [(ngModel)]="timeSlot" id="timeSlot" name="timeSlot"
+                                class="form-control mb-2 rounded text-center">
+                                <option disabled>Select TimeSlot</option>
+                                <option value="09:00 AM - 12:00 PM">09:00 AM - 12:00 PM</option>
+                                <option value="12:00 PM - 03:00 PM">12:00 PM - 03:00 PM</option>
+                                <option value="03:00 PM - 06:00 PM">03:00 PM - 06:00 PM</option>
+                                <option value="06:00 PM - 09:00 PM">06:00 PM - 09:00 PM</option>
+                            </select>
+                        </div>
+                        <div class="form-label-group py-1">
+                            <label for="startDate">Start Date</label>
+                            <input type="date" name="startDate" [(ngModel)]="startDate" class="form-control" required
+                                autofocus>
+                        </div>
+
+                        <div class="form-label-group py-1">
+                            <label for="endDate">End Date</label>
+                            <input type="date" name="endDate" [(ngModel)]="endDate" class="form-control" required
+                                autofocus>
+                        </div>
+
+                        
+
+                        <div *ngIf="trainerData" class="form-label-group py-1">
+                            <label for="UserName">Trainer Name</label>
+                            <input type="text" name="name"  disabled value="{{trainerData.firstname}} {{trainerData.lastname}}"
+                                class="form-control" required autofocus>
+                        </div>
+
+                        <div *ngIf="trainerData" class="form-label-group py-1">
+                            <label for="email">Trainer Email</label>
+                            <input type="text" name="email" id="email" disabled value="{{trainerData.email}}"
+                                class="form-control" required autofocus>
+                        </div>
+
+                        <button class="my-4 btn btn-lg btn-primary btn-block text-uppercase" type="submit">Send
+                            Request</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+                <div class="card bg-light mb-3" style="max-width: 18rem;">
+                        <div *ngIf="skillData" class="card-header">Requested Course</div>
+                        <div class="card-body">
+                            <h5 class="card-title">{{skillData.name}}</h5>
+                            <h5 class="card-title">Fees</h5>
+                            <p class="card-text">{{skillData.fees}}</p>
+                           
+                        </div>
+                    </div>
+        </div>
+      
+    </div>
+</div>

@@ -1,0 +1,86 @@
+<div class="bg-img" id="header">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+                <a class="navbar-brand" href="#">Ur Mentor</a>
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link" routerLink="/user-register" routerLinkActive="true">Register As User</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" routerLink="/trainer-register" routerLinkActive="true">Register As Mentor</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" (click)="navToSearch()">Search</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" routerLink="/login" routerLinkActive="true">Login</a>
+                  </li>
+                </ul>
+              </nav>
+             
+              
+ <form class="form-signin">
+   <div class="row">
+    <div class="col-sm-2 col-sm-2"></div>
+            <div class="col-sm-4 col-sm-4">
+                <div class="form-group">
+                     <br>
+                    <select [(ngModel)]="tech" name="tech" class="form-control mb-2 rounded text-center dropdown" >
+                        <option value="" disabled>Select Technology</option>
+                        <option *ngFor="let t of skillData" value="{{t.name}}">{{t.name}}</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-sm-4 com-sm-4">
+                <div class="form-group my-2">
+                    <label></label>
+                    <button type="button" class="btn btn-outline-dark  btn-sm btn-block"(click)="onSubmit()" >Search</button>
+                </div>
+            </div>
+            <div class="col-sm-2 col-sm-2"></div>
+        </div>
+    </form>
+
+
+
+<div *ngIf="status1" class="my-5 container">
+   
+        <div class="h4 text-center">
+            <p> No Result found </p>
+        </div>
+  
+</div>
+<div *ngIf="status2" class="container py-4">
+    <div class="row my-2">
+       
+        
+       
+    </div>
+
+    <div class="row my-5">
+        <div *ngFor="let i of showSearchData | filter: term | paginate: { itemsPerPage: 4, currentPage: p }"
+          >
+            <div >
+               
+                <div >
+                    <label class="font-weight-bolder"> Name : </label>
+                    <p class="d-inline card-text"> {{i.firstname}} {{i.lastname}} </p><br />
+                    <label class="font-weight-bolder"> Technology : </label>
+                    <p class="d-inline card-text"> {{i.trainerTechnology}} </p><br>
+                    <label class="font-weight-bolder"> Experience: </label>
+                    <p class="d-inline card-text"> {{i.yearOfExperience}} </p><br>
+                    <hr>
+                    <div class="float-right">
+                        <button class="btn btn-sm btn-info" (click)="proposalSent(i)">
+                            Details
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="footer">
+        <p>CopyRights@2019</p>
+      </div>
+    

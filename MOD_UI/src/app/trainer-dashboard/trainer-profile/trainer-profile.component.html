@@ -1,0 +1,50 @@
+<div class="container p-2">
+
+    <div >
+        <h2>Mentor Profile</h2>
+    </div>
+    <div class="row" *ngIf="model">
+        
+        <div class="col-sm-8">
+            <div class="modal-body">
+                <table >
+                    <tbody>
+                        <tr>
+                            <td>Name</td>
+                            <td>{{model.firstname}} {{model.lastname}}</td>
+                        </tr>
+
+                        <tr>
+                            <td>Email-id</td>
+                            <td>{{model.email}}</td>
+                        </tr>
+
+
+
+
+                        <tr>
+                            <td>Mobile Number</td>
+                            <td>{{model.contactnumber}}</td>
+                        </tr>
+
+                        <tr>
+                            <td>Skill</td>
+                            <td>{{model.trainerTechnology}}</td>
+                        </tr>
+
+                        <tr>
+                            <td>Experience</td>
+                            <td>{{model.yearOfExperience}}</td>
+                        </tr>
+
+                        
+
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+</div>
+    
+   

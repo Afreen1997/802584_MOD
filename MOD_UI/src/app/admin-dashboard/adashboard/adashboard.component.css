@@ -1,0 +1,13 @@
+.headercenter{
+    text-align: center;
+    top:100px;
+    position: relative;
+  }
+  .bg-img {
+    background-image: url("/assets/images/adminbg.jpg");
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
