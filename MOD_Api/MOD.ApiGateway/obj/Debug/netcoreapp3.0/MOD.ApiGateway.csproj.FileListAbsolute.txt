@@ -85,3 +85,32 @@ C:\Users\HP\Desktop\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3
 C:\Users\HP\Desktop\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csproj.CopyComplete
 C:\Users\HP\Desktop\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.dll
 C:\Users\HP\Desktop\My project\MOD Solution\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\appsettings.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\ocelot.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.exe
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.deps.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.runtimeconfig.dev.json
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\bin\Debug\netcoreapp3.0\Ocelot.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csprojAssemblyReference.cache
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.Manifest.cache
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\staticwebassets\MOD.ApiGateway.StaticWebAssets.xml
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfoInputs.cache
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.AssemblyInfo.cs
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.RazorTargetAssemblyInfo.cache
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.csproj.CopyComplete
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.dll
+D:\802584_MOD\MOD_Api\MOD.ApiGateway\obj\Debug\netcoreapp3.0\MOD.ApiGateway.pdb
