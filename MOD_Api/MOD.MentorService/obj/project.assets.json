@@ -8664,11 +8664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.MentorService\\MOD.MentorService.csproj",
+      "projectUniqueName": "D:\\802584_MOD\\MOD_Api\\MOD.MentorService\\MOD.MentorService.csproj",
       "projectName": "MOD.MentorService",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.MentorService\\MOD.MentorService.csproj",
+      "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.MentorService\\MOD.MentorService.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.MentorService\\obj\\",
+      "outputPath": "D:\\802584_MOD\\MOD_Api\\MOD.MentorService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8684,14 +8684,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.MentorLibrary\\MOD.MentorLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.MentorLibrary\\MOD.MentorLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.MentorLibrary\\MOD.MentorLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.MentorLibrary\\MOD.MentorLibrary.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
             }
           }
         }

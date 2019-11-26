@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
+      "projectUniqueName": "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
       "projectName": "MOD.DtosLibrary",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
+      "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\obj\\",
+      "outputPath": "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

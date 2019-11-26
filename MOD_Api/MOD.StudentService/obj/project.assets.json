@@ -8685,11 +8685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.StudentService\\MOD.StudentService.csproj",
+      "projectUniqueName": "D:\\802584_MOD\\MOD_Api\\MOD.StudentService\\MOD.StudentService.csproj",
       "projectName": "MOD.StudentService",
-      "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.StudentService\\MOD.StudentService.csproj",
+      "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.StudentService\\MOD.StudentService.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.StudentService\\obj\\",
+      "outputPath": "D:\\802584_MOD\\MOD_Api\\MOD.StudentService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8705,14 +8705,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.DtosLibrary\\MOD.DtosLibrary.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.ModelLibrary\\MOD.ModelLibrary.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.StudentLibrary\\MOD.StudentLibrary.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\My project\\MOD Solution\\MOD.StudentLibrary\\MOD.StudentLibrary.csproj"
+            "D:\\802584_MOD\\MOD_Api\\MOD.StudentLibrary\\MOD.StudentLibrary.csproj": {
+              "projectPath": "D:\\802584_MOD\\MOD_Api\\MOD.StudentLibrary\\MOD.StudentLibrary.csproj"
             }
           }
         }
